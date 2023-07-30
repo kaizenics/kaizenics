@@ -1,11 +1,13 @@
 <h3 align="center"> Niko 🌙 Aspiring Full-Stack Developer & Graphic Artist </h3>
 
+<h4 align="center"> 💻 Tech Stacks that I am currently exploring: </h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25" />
   <img src="https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=blue" height="25"/>
   <img src="https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase" height="25"/>
-  <img src="https://img.shields.io/badge/vercel-%2320232a.svg?style=for-the-badge&logo=vercel&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/threejs-%2320232a?style=for-the-badge&logo=three.js&logoColor=white" height=25"/>
   <img src="https://img.shields.io/badge/adobephotoshop-%2320232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=blue" height="25"/>
   <img src="https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=red" height="25"/>
 </p>
