@@ -1,4 +1,4 @@
-<h3 align="center"> Niko 🌙 I enjoy pressing my Keyboard keys. </h3>
+<h3 align="center"> Niko 🌙 I enjoy pressing my keyboard keys </h3>
 
 <h4 align="center"> 💻 Tech Stacks that I am currently exploring: </h3>
 
