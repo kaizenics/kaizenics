@@ -1,4 +1,4 @@
-<h3 align="center"> Niko 🌙 Aspiring Full-Stack Developer & Graphic Artist </h3>
+<h3 align="center"> Niko 🌙 <ReactJS/> Enjoyer </h3>
 
 <h4 align="center"> 💻 Tech Stacks that I am currently exploring: </h3>
 
