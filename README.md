@@ -1,4 +1,4 @@
-<h4 align="center"> 💻 Tech Stacks that I am currently exploring: </h3>
+<h4 align="center"> Tech Stacks that I am currently exploring: </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/next.js-%2320232a?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"/>
