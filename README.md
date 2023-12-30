@@ -16,12 +16,12 @@
 
 <td valign="top" width="50%">
 <div align=center>
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=kaizenics&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=kaizenics&theme=react&show_icons=true&hide_border=true&count_private=truee&theme=github_dark"/>
   </td>
 </div>
 
 <td valign="top" width="50%">
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizenics&theme=react&hide_border=true"/>
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizenics&theme=react&hide_border=truee&theme=github_dark"/>
 </td>
 
 
