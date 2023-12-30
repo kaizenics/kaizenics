@@ -10,9 +10,21 @@
   <img src="https://img.shields.io/badge/vercel-%2320232a.svg?style=for-the-badge&logo=vercel&logoColor=white" height="25"/>
 </p>
 
+<table>
+
+<tr>
+
+<td valign="top" width="50%">
 <div align=center>
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=kaizenics&theme=react&show_icons=true&hide_border=true&count_private=true"/>
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizenics&theme=react&hide_border=true"/>
+  </td>
 </div>
 
+<td valign="top" width="50%">
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizenics&theme=react&hide_border=true"/>
+</td>
+
+
+</tr>
+</table>
 <br>
