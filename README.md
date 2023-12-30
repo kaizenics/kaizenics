@@ -21,7 +21,7 @@
 </div>
 
 <td valign="top" width="50%">
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizenics&theme=react&hide_border=true" align="left"/>
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizenics&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="left"/>
 </td>
 
 
