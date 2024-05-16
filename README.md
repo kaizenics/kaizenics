@@ -13,7 +13,3 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=kaizenics&theme=react&show_icons=true&hide_border=true&count_private=true"/>
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=kaizenics&theme=react&hide_border=true"/>
 </div>
-
-<div align=center>
-<a href="https://app.daily.dev/kaizenics"><img src="https://api.daily.dev/devcards/v2/nT7S0sZtcSBpIbZxyKczZ.png?r=gnr&type=wide" width="652" alt="Niko's Dev Card"/></a>
-</div>
